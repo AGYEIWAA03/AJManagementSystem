@@ -1,0 +1,166 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="b07df2f8-215e-4148-a939-6d354a4cbb9d" name="Changes" comment="&quot;Initial Commit&quot;">
+      <changelist_data name="Newman Agyeiwaa Blessing" email="ajaybanaf@gmail.com" automatic="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+        <option value="FxmlFile" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GitHubPullRequestSearchHistory"><![CDATA[{
+  "lastFilter": {
+    "state": "OPEN",
+    "assignee": "AGYEIWAA03"
+  }
+}]]></component>
+  <component name="GithubDefaultAccount">
+    <option name="defaultAccountId" value="6a5a19ba-5723-48be-9bb1-36c4e1928ab9" />
+  </component>
+  <component name="GithubPullRequestsUISettings"><![CDATA[{
+  "selectedUrlAndAccountId": {
+    "url": "git@github.com:AGYEIWAA03/AJManagementSystem.git",
+    "accountId": "6a5a19ba-5723-48be-9bb1-36c4e1928ab9"
+  }
+}]]></component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="mavenHomeTypeForPersistence" value="WRAPPER" />
+      </MavenGeneralSettings>
+    </option>
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 4
+}</component>
+  <component name="ProjectId" id="3A8rc32OiREzPAw4V2craZii2w3" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "ASKED_SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "Application.Main.executor": "Run",
+    "Application.ajmanagementsystem.Main.executor": "Run",
+    "Maven.AJManagementSystem [clean].executor": "Run",
+    "Maven.AJManagementSystem [compile].executor": "Run",
+    "Maven.AJManagementSystem [install].executor": "Run",
+    "Maven.AJManagementSystem [org.apache.maven.plugins:maven-clean-plugin:2.5:clean].executor": "Run",
+    "Maven.AJManagementSystem [org.apache.maven.plugins:maven-install-plugin:2.4:help].executor": "Run",
+    "Maven.AJManagementSystem [org.apache.maven.plugins:maven-install-plugin:2.4:install-file].executor": "Run",
+    "Maven.AJManagementSystem [org.apache.maven.plugins:maven-install-plugin:2.4:install].executor": "Run",
+    "Maven.AJManagementSystem [org.apache.maven.plugins:maven-jar-plugin:2.4:sign-verify].executor": "Run",
+    "Maven.AJManagementSystem [org.apache.maven.plugins:maven-jar-plugin:2.4:test-jar].executor": "Run",
+    "Maven.AJManagementSystem [org.openjfx:javafx-maven-plugin:0.0.8:jlink].executor": "Run",
+    "Maven.AJManagementSystem [org.openjfx:javafx-maven-plugin:0.0.8:run].executor": "Run",
+    "Maven.AJManagementSystem [package].executor": "Run",
+    "Maven.AJManagementSystem [site].executor": "Run",
+    "Maven.AJManagementSystem [test].executor": "Run",
+    "Maven.AJManagementSystem [validate].executor": "Run",
+    "Maven.AJManagementSystem [verify].executor": "Run",
+    "ModuleVcsDetector.initialDetectionPerformed": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.TerminalTabsStorage.copyFrom.TerminalArrangementManager.252": "true",
+    "RunOnceActivity.git.unshallow": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "git-widget-placeholder": "master",
+    "kotlin-language-version-configured": "true",
+    "project.structure.last.edited": "Project",
+    "project.structure.proportion": "0.0",
+    "project.structure.side.proportion": "0.0",
+    "settings.editor.selected.configurable": "org.jetbrains.plugins.github.ui.GithubSettingsConfigurable"
+  },
+  "keyToStringList": {
+    "com.intellij.ide.scratch.ScratchImplUtil$2/New Scratch File": [
+      "CSS"
+    ]
+  }
+}]]></component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\BLUEWAVE COMP\Desktop\CAPSTONE\AJ Management System\src\main\resources\FXML" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration name="ajmanagementsystem.Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ajmanagementsystem.Main" />
+      <module name="AJManagementSystem" />
+      <option name="VM_PARAMETERS" value="--module-path &quot;C:\Users\BLUEWAVE COMP\Downloads\openjfx-21.0.10_windows-x64_bin-sdk\javafx-sdk-21.0.10\lib&quot; --add-modules javafx.controls,javafx.fxml " />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="ajmanagementsystem.Main" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="JetRunConfigurationType">
+      <module name="AJ Management System" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="KotlinStandaloneScriptRunConfigurationType">
+      <module name="AJ Management System" />
+      <option name="filePath" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.ajmanagementsystem.Main" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="b07df2f8-215e-4148-a939-6d354a4cbb9d" name="Changes" comment="" />
+      <created>1771985118258</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1771985118258</updated>
+    </task>
+    <task id="LOCAL-00001" summary="&quot;Initial Commit&quot;">
+      <option name="closed" value="true" />
+      <created>1772039004459</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1772039004459</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
+    <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="&quot;Initial Commit&quot;" />
+    <option name="LAST_COMMIT_MESSAGE" value="&quot;Initial Commit&quot;" />
+  </component>
+</project>
